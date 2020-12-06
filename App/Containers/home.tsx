@@ -27,6 +27,7 @@ const Home = ({navigation}): ReactElement => {
           }}
           title={item.name}
           url={item.url}
+          logo={item.logo}
         />
       </View>
     );

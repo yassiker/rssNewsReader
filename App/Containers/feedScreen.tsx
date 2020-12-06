@@ -108,6 +108,10 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     fontSize: 16,
   },
+  titleImage: {
+    height: 100,
+    width: 100,
+  },
 });
 
 export default FeedScreen;
